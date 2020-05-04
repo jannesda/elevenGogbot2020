@@ -1,0 +1,32 @@
+*{
+	text-decoration:none;
+}
+.MenuText {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.Introtext {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 100px;
+	padding: 130px;
+}
+
+.Page2text {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 100px;
+	padding: 130px;
+}
+.Page2Text:link {
+	color: #ffffff;
+}
+
+.ComputerSpeaking {
+	color: gold;
+	text-align: center;
+	padding-left: 130px;
+	padding-right: 130px;
+}
